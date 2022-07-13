@@ -10,3 +10,7 @@ nav ul {
     left: 5in;
    
 }
+
+nav li {
+    display: inline;
+}
